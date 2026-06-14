@@ -9,14 +9,16 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.E. Computer Science & Engineering @ **Rajalakshmi Engineering College, Chennai** (2024–2028)
+- 🎓 B.E. Computer Science & Engineering @ **Rajalakshmi Engineering College, Chennai** *(2024–2028)*
+- 💻 Aspiring Full Stack Developer 
 - 📍 Arakkonam, Tamil Nadu, India
-- 💹 Finance & Tech Intern @ **ARISE Investment and Capital** (2024)
-- 🤖 AI/ML Intern @ **InternPe** (2024)
-- 🧠 Built a mood-based job search engine in my 2nd year of college
+- 💹 Finance & Technology Intern @ **ARISE Investment and Capital** *(2024)*
+- 🤖 AI/ML Intern @ **InternPe** *(2025–2026)*
+- 🚀 Developed **JOBLY**, an AI-powered multilingual job portal with QR resumes and success prediction
+- 🧠 Built and deployed a mood-based job search engine during my 2nd year of engineering
+- 🌱 Currently learning Java, Full Stack Development, Cloud, and AI Technologies
 - 📫 Reach me at **vishalmanavalanp@gmail.com**
 - ⚡ Motto: *Build things that matter. Automate the rest.*
-
 ---
 
 ### 🛠️ Tech Stack
