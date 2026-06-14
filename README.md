@@ -144,9 +144,11 @@
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-0A0A0A?style=for-the-badge&logo=stackshare&logoColor=white)
 
 ### 🤝 Connect with Me
@@ -165,7 +167,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
----
+
 
 <p align="center">
   <i>"Build things that matter. Automate the rest. ⚡"</i>
