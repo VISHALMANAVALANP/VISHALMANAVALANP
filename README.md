@@ -68,24 +68,22 @@
 
 ### 💼 Work Experience
 
-**🤖 AI/ML Intern — InternPe** *(Dec 2025 – Jan 2026)*
-- Built a Student Performance Prediction model using Linear Regression & Random Forest
-- Used Python, Pandas, Scikit-learn across the full ML lifecycle
-- Engineered data pipelines and tuned hyperparameters to improve model accuracy
-
-**💹 Finance & Technology Intern — ARISE Investment and Capital** *(2024)*
-- Gained hands-on exposure to investment workflows and capital management
-- Supported data analysis and financial reporting tasks
-- Enhanced client communication and professional skills
-
 **💻 Full Stack Developer Intern — Tamizhan Skills** *(2026)*
-
 - Developed a centralized job portal connecting job seekers and recruiters
 - Built job search, job posting, and application management functionalities
 - Implemented secure authentication and an intuitive user-friendly interface
 - Integrated multilingual support, job success prediction, and QR-based resumes
 - Improved recruitment efficiency through intelligent full-stack solutions
----
+  
+**🤖 AI/ML Intern — InternPe** *(Dec 2025 – Jan 2026)*
+- Built a Student Performance Prediction model using Linear Regression & Random Forest
+- Used Python, Pandas, Scikit-learn across the full ML lifecycle
+- Engineered data pipelines and tuned hyperparameters to improve model accuracy
+
+**💹 Finance & Technology Intern — ARISE Investment and Capital** *(2025)*
+- Gained hands-on exposure to investment workflows and capital management
+- Supported data analysis and financial reporting tasks
+- Enhanced client communication and professional skills
 
 ### 🚀 Projects
 
