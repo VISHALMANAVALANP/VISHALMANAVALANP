@@ -146,9 +146,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-0A0A0A?style=for-the-badge&logo=stackshare&logoColor=white)
 
 ### 🤝 Connect with Me
